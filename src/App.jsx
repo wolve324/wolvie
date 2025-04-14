@@ -45,11 +45,5 @@ const App = () => {
         </div>
     );
 };
-<BrowserRouter basename="/wolvie">
-  <Routes>
-    <Route path="/" element={<Home />} />
-    <Route path="/dsatracker" element={<DSATracker />} />
-  </Routes>
-</BrowserRouter>
 
 export default App;
