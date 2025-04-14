@@ -1,8 +1,8 @@
 {
-  "name": "your-app-name",
+  "name": "DSATracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yourusername.github.io/your-repo-name",  // Replace with your actual GitHub username and repository name
+  "homepage": "https://wolve324.github.io/wolvie",  // Replace with your actual GitHub username and repository name
   "dependencies": {
     // All your dependencies here (like react, react-dom, etc.)
   },
