@@ -1,8 +1,7 @@
 // App.jsx
 import React from 'react';
 import DSATracker from './DSATracker';
-import '../public/styles.css';
-
+import "./styles.css"; 
 
 const App = () => {
     return (
