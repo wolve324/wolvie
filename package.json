@@ -5,16 +5,17 @@
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0",  // Add react-router-dom for routing
     "gh-pages": "^6.3.0",
     "react-scripts": "^5.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "predeploy": "npm run build && cp build/index.html build/404.html"
-    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build && cp build/index.html build/404.html",
+    "deploy": "gh-pages -d build",  // Deploys to GitHub Pages
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://wolve324.github.io/wolvie"
+  "homepage": "https://wolve324.github.io/wolvie" // Update the homepage with your GitHub Pages URL
 }
