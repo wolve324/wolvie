@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wolvie/static/css/main.f14cec6f.css",
+    "main.js": "/wolvie/static/js/main.4dc2f393.js",
+    "index.html": "/wolvie/index.html",
+    "main.f14cec6f.css.map": "/wolvie/static/css/main.f14cec6f.css.map",
+    "main.4dc2f393.js.map": "/wolvie/static/js/main.4dc2f393.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f14cec6f.css",
+    "static/js/main.4dc2f393.js"
+  ]
+}
